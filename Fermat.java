@@ -1,5 +1,6 @@
 public class Fermat{
 	public static void main(String[]args){
+		//placeholder 
 		fermat(1,5,7,2);
 	}
 	public static void fermat(int a, int b, int c, int n){
